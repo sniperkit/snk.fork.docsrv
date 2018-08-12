@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package docsrv
 
 import (
@@ -9,8 +14,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Sirupsen/logrus"
 	"github.com/c4milo/unpackit"
+	"github.com/sirupsen/logrus"
 )
 
 // buildConfig contains all the configuration passed to the `build docs`

@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package docsrv
 
 import (
@@ -11,7 +16,7 @@ import (
 	"time"
 
 	"github.com/Masterminds/semver"
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 )
 
 // Options contains all the options available for creating a new DocSrv

@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package main
 
 import (
@@ -7,8 +12,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Sirupsen/logrus"
-	"github.com/src-d/docsrv/docsrv"
+	"github.com/sirupsen/logrus"
+
+	"github.com/sniperkit/snk.fork.docsrv/docsrv"
 )
 
 const (
